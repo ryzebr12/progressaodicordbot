@@ -3,7 +3,7 @@ from discord.ext import commands
 import yfinance as yf
 
 # Configuração do bot
-TOKEN = 'MTEyNjMxMTMxMzc5NTE5NTAxMA.GpB6IT.11hWY9Hh1T8-Kef5Ef9Mrno_49o8ZODs3Cjgiw'
+TOKEN = 'token'
 bot_prefix = '/'
 
 # Definição das intenções
