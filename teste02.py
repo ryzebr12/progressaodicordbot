@@ -107,4 +107,4 @@ async def currency_help(ctx):
     await ctx.send(f"Opções de moedas:\n{options}\n\nUse o comando `/convert <moeda_origem> <moeda_destino> <valor>` para realizar a conversão de moedas.")
 
 
-bot.run("MTEyNjMxMTMxMzc5NTE5NTAxMA.GpB6IT.11hWY9Hh1T8-Kef5Ef9Mrno_49o8ZODs3Cjgiw")
+bot.run("token")
